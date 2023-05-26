@@ -29,10 +29,7 @@ touch .prettierrc
 ```
 Formatting using VSCode on save
 ```json
-
-// Default (format when you paste)
 "editor.formatOnPaste": true,
-// Default (format when you save)
 "editor.formatOnSave": true,
 ```
 
